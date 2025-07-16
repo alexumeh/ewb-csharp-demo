@@ -3,7 +3,7 @@ name: "CodeQL Monthly"
 on:
   schedule:
     # - cron: '35 4 1 * *'
-    - cron: '48 19 * * *'
+    - cron: '49 19 * * *'
   # push:
   #   branches: [ "main"]
   # pull_request:
